@@ -3,8 +3,8 @@ cmake-build-debug/Testing/Temporary*
 cmake-build-debug/CMakeCache.txt
 cmake-build-debug/CMakeFiles/Makefile.cmake
 
-# IDE Layout
-.idea/workspace.xml
+# IDE
+.idea*
 
 # Actual Builds
 cmake-build-*
