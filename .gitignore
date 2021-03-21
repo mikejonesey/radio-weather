@@ -1,0 +1,11 @@
+# Temp files, not part of the code
+cmake-build-debug/Testing/Temporary*
+cmake-build-debug/CMakeCache.txt
+cmake-build-debug/CMakeFiles/Makefile.cmake
+
+# IDE Layout
+.idea/workspace.xml
+
+# Actual Builds
+cmake-build-*
+
